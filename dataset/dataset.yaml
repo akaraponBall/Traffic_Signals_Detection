@@ -1,0 +1,10 @@
+path: /home/ball/wsl_projects/Traffic_Signals_Detection/dataset
+train: images/train
+val: images/val
+
+names:
+  0: prohibitory
+  1: danger
+  2: mandatory
+  3: other
+
